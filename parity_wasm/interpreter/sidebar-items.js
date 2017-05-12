@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Interpreter error."],["ItemIndex","Item index in items index space."],["RuntimeValue","Runtime value."]],"struct":[["ModuleInstance","Module instance."],["ProgramInstance","Program instance. Program is a set of instantiated modules."]],"trait":[["ModuleInstanceInterface","Module instance API."]]});
